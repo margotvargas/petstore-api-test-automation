@@ -1,4 +1,4 @@
-package com.nttdata.steps;
+package petStore.steps;
 
 import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Step;
@@ -7,7 +7,7 @@ import static net.serenitybdd.rest.SerenityRest.lastResponse;
 import static net.serenitybdd.rest.SerenityRest.restAssuredThat;
 import static org.hamcrest.CoreMatchers.equalTo;
 
-public class GestionUsuario {
+public class UsuarioSteps {
 
     private static String USER_API_URL = "https://petstore.swagger.io/v2/user";
 
