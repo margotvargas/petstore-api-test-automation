@@ -1,6 +1,8 @@
-# API Test Automation for PetStore
+# API Test Automation de la tienda PetStore
 
 Este proyecto realiza pruebas automatizadas para la API de PetStore. Utiliza Serenity BDD con Cucumber para crear pruebas automatizadas que cubren las funcionalidades de gestión de usuarios, órdenes y mascotas en la API de PetStore.
+Link:
+[Swagger PetStore](https://petstore.swagger.io/)
 
 ## Características
 
